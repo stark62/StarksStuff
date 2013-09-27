@@ -1,0 +1,9 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"http://www.saigns.de //GRANARY ONLY"
+		"date"		"1279634813"
+		"addr"		"82.165.133.26:27016"
+	}
+}
